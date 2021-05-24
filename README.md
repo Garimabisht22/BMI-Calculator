@@ -1,6 +1,11 @@
 # bmi_calculator
 
-A new Flutter application.
+I made a BMI CALCULATOR using flutter that accepts your age, weight and height and provide you your Body Mass Index with a little health tip. 
+Here is a sample video of the application.
+
+
+https://user-images.githubusercontent.com/51168410/119358458-46110880-bcc6-11eb-9328-4f18a2274a7a.mp4
+
 
 ## Getting Started
 
